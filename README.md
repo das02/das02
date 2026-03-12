@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Desmond!
+
+First-year CS student based in Ghana <br>
+
+I am currently a frontend developer <br>
+
+Currently building small projects and working my way toward full-stack. <br>
+
+My current tech stack is html, css, javascript
 
 <!--
 **das02/das02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
